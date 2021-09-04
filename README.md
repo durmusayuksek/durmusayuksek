@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @durmusayuksek
-- 👀 I’m interested in using data science methodology in academia
-- 🌱 I’m currently following an online bootcamp
+- 👀 I’m a sociologist and Data Science enthusiast who is interested in using machine learning algorithms in solving real-life problems
+- 🌱 I’m currently following an online bootcamp provided by Clarusway
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me: you can reach me through my email address, which is durmusaliyuksek@gmail.com
 
