@@ -1,15 +1,20 @@
-### Hi there 👋, Durmus A. Yuksek
-#### Data Science Enthusiast | Sociologist
 ![Data Science Enthusiast | Sociologist](https://materibelajar.co.id/wp-content/uploads/2019/02/Data.jpg)
+
+# Durmus A. Yuksek
 
 I'm a sociologist and Data Science enthusiast who is interested in using machine learning algorithms in solving real-life problems
 
-Skills: PYTHON / SQL / LINUX / GIT
+## Skills 
+* 💻 PYTHON, HTML, CSS
+* ⚛️ SQL
+* 🐧 LINUX
+* 📱 GIT
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning machine learning tools and algorithms  
-- 👯 I’m looking to collaborate on open source 
-- 📫 How to reach me: durmusaliyuksek@gmail.com 
+## Currently ...
+* 🔭 I’m currently following an online bootcamp provided by CLARUSWAY. 
+* 🌱 I’m currently learning machine learning tools and algorithms  
+* 👯 I’m looking to collaborate on open source 
+* 📫 How to reach me: durmusaliyuksek@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/durmusayuksek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/durmusayuksek/)  
