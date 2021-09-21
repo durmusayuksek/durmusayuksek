@@ -1,28 +1,22 @@
-## Hello World, I'm Durmus  👋
+### Hi there 👋, Durmus A. Yuksek
+#### Data Science Enthusiast | Sociologist
+![Data Science Enthusiast | Sociologist](https://materibelajar.co.id/wp-content/uploads/2019/02/Data.jpg)
 
-### I'm a sociologist and Data Science enthusiast who is interested in using machine learning algorithms in solving real-life problems
-- 🌱 I’m currently following an online bootcamp provided by Clarusway
-- 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me: you can reach me through my email address, which is durmusaliyuksek@gmail.com
+I'm a sociologist and Data Science enthusiast who is interested in using machine learning algorithms in solving real-life problems
 
-<br />
+Skills: PYTHON / SQL / LINUX / GIT
 
-### Languages and Tools:
-
-<img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="postgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<br />
-<br />
----
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning machine learning tools and algorithms  
+- 👯 I’m looking to collaborate on open source 
+- 📫 How to reach me: durmusaliyuksek@gmail.com 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/durmusayuksek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/durmusayuksek/)  
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=durmusayuksek)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
