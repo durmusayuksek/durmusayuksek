@@ -1,4 +1,4 @@
-![Data Science Enthusiast | Sociologist](https://materibelajar.co.id/wp-content/uploads/2019/02/Data.jpg)
+![Data Science Enthusiast | Sociologist](https://github.com/durmusayuksek/durmusayuksek/blob/main/banner.jpg)
 
 # Durmus A. Yuksek
 
