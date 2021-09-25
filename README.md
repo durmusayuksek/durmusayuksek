@@ -2,7 +2,7 @@
 
 # Durmus A. Yuksek
 
-I'm a sociologist and Data Science enthusiast who is interested in using machine learning algorithms in solving real-life problems
+I'm a sociologist and Data Science enthusiast who is interested in using machine learning algorithms to solve real-life problems
 
 ## Skills 
 * 💻 PYTHON, HTML, CSS
