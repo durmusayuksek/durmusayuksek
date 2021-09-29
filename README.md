@@ -37,12 +37,15 @@ I'm a sociologist and Data Science enthusiast who is interested in using machine
 <a href="#" target="_blank"> <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="MySQL" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://www.seekpng.com/png/detail/373-3732461_google-sheets-is-an-online-spreadsheet-solution-similar.png" alt="Google Sheets" height="70"/> </a>
+<a href="#" target="_blank"> <img src="https://e7.pngegg.com/pngimages/390/229/png-clipart-logo-html5-brand-design-text-logo.png" alt="HTML" height="70"/> </a>
+
   
 ## ⚙ Tools
 
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://zappysys.com/blog/wp-content/uploads/2018/07/jira-logo.jpg" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>  
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://e7.pngegg.com/pngimages/239/228/png-clipart-html-css3-cascading-style-sheets-logo-markup-language-digital-agency-miscellaneous-blue.png" height="60"/> </a>
 </p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=durmusayuksek&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
