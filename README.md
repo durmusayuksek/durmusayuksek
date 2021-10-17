@@ -8,7 +8,7 @@ I'm a sociologist and Data Science enthusiast who is interested in using machine
 * 🔭  I’m currently following an online bootcamp provided by CLARUSWAY. 
 * 🌱  I’m currently learning machine learning tools and algorithms  
 * 👯  I’m looking to collaborate on open source 
-* :speech_balloon:  I am passionate to learn, learn, learn, everyday and eager to share my knowledge
+* :speech_balloon:  I am passionate to learn and cooperate, and I am eager to share my knowledge
 
 ## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/durmusayuksek/)
