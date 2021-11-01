@@ -2,11 +2,12 @@
 
 # Durmus A. Yuksek
 
-I'm a sociologist and Data Science enthusiast who is interested in using machine learning algorithms to solve real-life problems
+PhD in Sociology | Data Analyst | Data Science Trainee
 
 ## Currently ...
-* 🔭  I’m currently following an online bootcamp provided by CLARUSWAY. 
-* 🌱  I’m currently learning machine learning tools and algorithms  
+* 🔭  I’m currently following an online bootcamp provided by CLARUSWAY
+* 🌱  I’m currently learning machine learning tools and algorithms 
+* ⌘ I'm willing to use machine learning algorithms in solving real-life problems
 * 👯  I’m looking to collaborate on open source 
 * :speech_balloon:  I am passionate to learn and cooperate, and I am eager to share my knowledge
 
