@@ -12,7 +12,7 @@ PhD in Sociology | Data Analyst | Data Science Trainee
 * :speech_balloon:  I am passionate to learn and cooperate, and I am eager to share my knowledge
 
 ## :man::woman: Social
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/durmusayuksek/)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durmus-a-yuksek/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/durmusaliyuksek)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:durmusaliyuksek@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durmusayuksek" alt="durmusayuksek" /> </p>
