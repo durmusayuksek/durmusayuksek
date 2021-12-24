@@ -16,7 +16,7 @@ PhD in Sociology | Data Analyst | Data Science Trainee
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/durmusaliyuksek)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:durmusaliyuksek@gmail.com)
 <a href="https://public.tableau.com/app/profile/durmus.a.yuksek#!/?newProfile=&activeTab=0" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@durmusaliyuksek)
+[![website](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@durmusaliyuksek)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durmusayuksek" alt="durmusayuksek" /> </p>
 
 ## 💻 Python Libraries
