@@ -2,7 +2,7 @@
 
 # Durmus A. Yuksek
 
-PhD in Sociology | Data Analyst | Data Science Trainee
+Data Analyst | PhD in Sociology
 
 ## Currently ...
 * 🔭  I’m currently following an online bootcamp provided by CLARUSWAY
