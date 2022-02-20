@@ -5,7 +5,7 @@
 Data Analyst | PhD in Sociology
 
 ## Currently ...
-* 🔭  I’m currently following an online bootcamp provided by CLARUSWAY
+* 🔭  I’m currently a Data Analyst (Mentor) at CLARUSWAY IT School
 * 🌱  I’m currently learning machine learning tools and algorithms 
 * ⌘ I'm willing to use machine learning algorithms in solving real-life problems
 * 👯  I’m looking to collaborate on open source 
