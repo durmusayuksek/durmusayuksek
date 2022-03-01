@@ -2,7 +2,7 @@
 
 # Durmus A. Yuksek
 
-Data Analyst | PhD in Sociology
+Data Scientist | Data Analyst | PhD in Sociology
 
 ## Currently ...
 * 🔭  I’m currently a Data Analyst (Mentor) at CLARUSWAY IT School
