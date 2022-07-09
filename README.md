@@ -5,8 +5,8 @@
 Data Scientist | Data Analyst | PhD in Sociology
 
 ## Currently ...
-* 🔭  I’m currently a Data Analyst (Mentor) at CLARUSWAY IT School
-* 🌱  I’m currently learning machine learning tools and algorithms 
+* 🔭  I’m currently a Data Analyst at Tallink Silja AB
+* 🌱  I’m currently using machine learning tools and algorithms in the marketing context
 * ⌘ I'm willing to use machine learning algorithms in solving real-life problems
 * 👯  I’m looking to collaborate on open source 
 * :speech_balloon:  I am passionate to learn and cooperate, and I am eager to share my knowledge
